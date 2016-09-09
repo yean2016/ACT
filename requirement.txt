@@ -1,0 +1,16 @@
+cffi
+cryptography
+Django
+djangorestframework
+idna
+mysqlclient
+pyasn1
+pycparser
+pyOpenSSL
+pytz
+requests
+rsa
+six
+circus
+gunicorn
+whitenoise
